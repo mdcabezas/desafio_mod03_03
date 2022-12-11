@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+#dv1, #dv2, #dv3, #dv4 {
+    width: 200px;
+    height: 200px;
+    border: 4px dashed black;
+} 
+
+#dv1{
+    background-color: #ffff00;
+}
+#dv2{
+    background-color: #7f00ff;
+}
+
+#dv3{
+    background-color: #48C9B0;
+}
+
+#dv4{
+    background-color: #ff4433;
+}
+
